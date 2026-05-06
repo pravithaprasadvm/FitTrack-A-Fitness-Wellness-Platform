@@ -1,0 +1,59 @@
+src/components/landing/CtaSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/landing/CtaSection.tsx(2,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/components/landing/CtaSection.tsx(3,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+src/components/landing/FeaturesSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/landing/FeaturesSection.tsx(2,75): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+src/components/landing/HeroSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/landing/HeroSection.tsx(2,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/components/landing/HowItWorksSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/landing/PricingSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/landing/PricingSection.tsx(2,87): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+src/components/landing/PricingSection.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/components/landing/TestimonialsSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/landing/TestimonialsSection.tsx(2,35): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+src/components/layout/DashboardLayout.tsx(5,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/components/layout/Footer.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/layout/Footer.tsx(3,20): error TS2305: Module '"lucide-react"' has no exported member 'Twitter'.
+src/components/layout/Footer.tsx(3,29): error TS2305: Module '"lucide-react"' has no exported member 'Instagram'.
+src/components/layout/Footer.tsx(3,40): error TS2305: Module '"lucide-react"' has no exported member 'Github'.
+src/components/layout/Footer.tsx(4,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/components/layout/Footer.tsx(5,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+src/components/layout/Navbar.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/layout/Navbar.tsx(4,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Dashboard/Dashboard.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Dashboard/Dashboard.tsx(3,75): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+src/pages/Dashboard/Dashboard.tsx(4,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Dashboard/Dashboard.tsx(5,26): error TS2307: Cannot find module '@/components/ui/progress' or its corresponding type declarations.
+src/pages/Dashboard/Dashboard.tsx(6,38): error TS6133: 'TrendingUp' is declared but its value is never read.
+src/pages/Dashboard/Dashboard.tsx(133,37): error TS2304: Cannot find name 'cn'.
+src/pages/LandingPage.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Onboarding/OnboardingFlow.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Onboarding/steps/Step1CreateAccount.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Onboarding/steps/Step1CreateAccount.tsx(6,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step1CreateAccount.tsx(7,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step1CreateAccount.tsx(8,23): error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(6,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(7,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(8,23): error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(9,24): error TS2307: Cannot find module '@/components/ui/slider' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(10,44): error TS2307: Cannot find module '@/components/ui/radio-group' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(61,29): error TS7006: Parameter 'v' implicitly has an 'any' type.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(93,29): error TS7006: Parameter 'val' implicitly has an 'any' type.
+src/pages/Onboarding/steps/Step2PersonalDetails.tsx(107,29): error TS7006: Parameter 'val' implicitly has an 'any' type.
+src/pages/Onboarding/steps/Step3FitnessGoals.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step4ActivityLevel.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(6,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(7,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(8,23): error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(9,24): error TS2307: Cannot find module '@/components/ui/switch' or its corresponding type declarations.
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(29,5): error TS2322: Type 'Resolver<{ username: string; bio?: string | undefined; notifications?: boolean | undefined; }, any, { username: string; notifications: boolean; bio?: string | undefined; }>' is not assignable to type 'Resolver<{ username: string; notifications: boolean; bio?: string | undefined; }, any, { username: string; notifications: boolean; bio?: string | undefined; }>'.
+  Types of parameters 'options' and 'options' are incompatible.
+    Type 'ResolverOptions<{ username: string; notifications: boolean; bio?: string | undefined; }>' is not assignable to type 'ResolverOptions<{ username: string; bio?: string | undefined; notifications?: boolean | undefined; }>'.
+      Type 'boolean | undefined' is not assignable to type 'boolean'.
+        Type 'undefined' is not assignable to type 'boolean'.
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(79,36): error TS2345: Argument of type '(values: Step5Values) => void' is not assignable to parameter of type 'SubmitHandler<TFieldValues>'.
+  Types of parameters 'values' and 'data' are incompatible.
+    Type 'TFieldValues' is not assignable to type '{ username: string; notifications: boolean; bio?: string | undefined; }'.
+      Type 'FieldValues' is missing the following properties from type '{ username: string; notifications: boolean; bio?: string | undefined; }': username, notifications
+src/pages/Onboarding/steps/Step5ProfileSetup.tsx(113,31): error TS7006: Parameter 'val' implicitly has an 'any' type.
